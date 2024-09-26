@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Selenium-Selenium-testframeworkfromScratch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97CEA872-DDEC-4EBA-B228-3190A4F995C0}|SeleniumTest.csproj|C:\\Selenium-Selenium-testframeworkfromScratch\\productpage\\productdisplaypage\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97CEA872-DDEC-4EBA-B228-3190A4F995C0}|SeleniumTest.csproj|solutionrelative:productpage\\productdisplaypage\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97CEA872-DDEC-4EBA-B228-3190A4F995C0}|SeleniumTest.csproj|c:\\selenium-selenium-testframeworkfromscratch\\checkoutpage\\checkoutinfopage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97CEA872-DDEC-4EBA-B228-3190A4F995C0}|SeleniumTest.csproj|solutionrelative:checkoutpage\\checkoutinfopage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97CEA872-DDEC-4EBA-B228-3190A4F995C0}|SeleniumTest.csproj|C:\\Selenium-Selenium-testframeworkfromScratch\\checkoutpage\\checkoutoverview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97CEA872-DDEC-4EBA-B228-3190A4F995C0}|SeleniumTest.csproj|solutionrelative:checkoutpage\\checkoutoverview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97CEA872-DDEC-4EBA-B228-3190A4F995C0}|SeleniumTest.csproj|C:\\Selenium-Selenium-testframeworkfromScratch\\productpage\\productdisplaypage\\addtocart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97CEA872-DDEC-4EBA-B228-3190A4F995C0}|SeleniumTest.csproj|solutionrelative:productpage\\productdisplaypage\\addtocart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97CEA872-DDEC-4EBA-B228-3190A4F995C0}|SeleniumTest.csproj|C:\\Selenium-Selenium-testframeworkfromScratch\\productpage\\productdisplaypage\\productaddition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97CEA872-DDEC-4EBA-B228-3190A4F995C0}|SeleniumTest.csproj|solutionrelative:productpage\\productdisplaypage\\productaddition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|SeleniumTest||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SeleniumTest",
+              "DocumentMoniker": "C:\\Selenium-Selenium-testframeworkfromScratch\\SeleniumTest.csproj",
+              "RelativeDocumentMoniker": "SeleniumTest.csproj",
+              "ToolTip": "C:\\Selenium-Selenium-testframeworkfromScratch\\SeleniumTest.csproj",
+              "RelativeToolTip": "SeleniumTest.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-25T17:53:40.377Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "driver.cs",
+              "DocumentMoniker": "C:\\Selenium-Selenium-testframeworkfromScratch\\ProductPage\\ProductDisplayPage\\driver.cs",
+              "RelativeDocumentMoniker": "ProductPage\\ProductDisplayPage\\driver.cs",
+              "ToolTip": "C:\\Selenium-Selenium-testframeworkfromScratch\\ProductPage\\ProductDisplayPage\\driver.cs",
+              "RelativeToolTip": "ProductPage\\ProductDisplayPage\\driver.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAjwCEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T04:44:59.114Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CheckoutOverview.cs",
+              "DocumentMoniker": "C:\\Selenium-Selenium-testframeworkfromScratch\\CheckoutPage\\CheckoutOverview.cs",
+              "RelativeDocumentMoniker": "CheckoutPage\\CheckoutOverview.cs",
+              "ToolTip": "C:\\Selenium-Selenium-testframeworkfromScratch\\CheckoutPage\\CheckoutOverview.cs",
+              "RelativeToolTip": "CheckoutPage\\CheckoutOverview.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T09:57:42.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CheckoutInfopage.cs",
+              "DocumentMoniker": "C:\\Selenium-Selenium-testframeworkfromScratch\\CheckoutPage\\CheckoutInfopage.cs",
+              "RelativeDocumentMoniker": "CheckoutPage\\CheckoutInfopage.cs",
+              "ToolTip": "C:\\Selenium-Selenium-testframeworkfromScratch\\CheckoutPage\\CheckoutInfopage.cs",
+              "RelativeToolTip": "CheckoutPage\\CheckoutInfopage.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T09:28:38.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductAddition.cs",
+              "DocumentMoniker": "C:\\Selenium-Selenium-testframeworkfromScratch\\ProductPage\\ProductDisplayPage\\ProductAddition.cs",
+              "RelativeDocumentMoniker": "ProductPage\\ProductDisplayPage\\ProductAddition.cs",
+              "ToolTip": "C:\\Selenium-Selenium-testframeworkfromScratch\\ProductPage\\ProductDisplayPage\\ProductAddition.cs",
+              "RelativeToolTip": "ProductPage\\ProductDisplayPage\\ProductAddition.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T09:22:11.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddtoCart.cs",
+              "DocumentMoniker": "C:\\Selenium-Selenium-testframeworkfromScratch\\ProductPage\\ProductDisplayPage\\AddtoCart.cs",
+              "RelativeDocumentMoniker": "ProductPage\\ProductDisplayPage\\AddtoCart.cs",
+              "ToolTip": "C:\\Selenium-Selenium-testframeworkfromScratch\\ProductPage\\ProductDisplayPage\\AddtoCart.cs",
+              "RelativeToolTip": "ProductPage\\ProductDisplayPage\\AddtoCart.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T18:16:31.066Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
