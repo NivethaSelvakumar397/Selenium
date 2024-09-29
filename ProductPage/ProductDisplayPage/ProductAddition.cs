@@ -20,6 +20,10 @@ namespace SeleniumTest.ProductPage.ProductDisplayPage
         { 
 
             String text = Resources.StringValue;
+            //Product names are entered as comma separated values, hence spliting them
+            //Make sure to enter a - inbetween each word in Product name in Resources file
+            //To add a product, add the string "add-to-cart" before the product name
+            //To remove a product, add the string "Remove-" before the product name
             string[] names= text.Split(',');
             int count= names.Length;
             for (int i = 0; i < count; i++)

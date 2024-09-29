@@ -19,9 +19,11 @@ namespace SeleniumTest.ProductPage.ProductDisplayPage
     {
         public static void Main(string[] args)
         {
-
+            //Browser Navigation
              IWebDriver driver = new FirefoxDriver();  
             driver.Navigate().GoToUrl("https://saucedemo.com/");
+
+            //Call necessary classes to access respective functionalities
             SignInPage.SignInfunctiona signin=new SignInPage.SignInfunctiona();
             signin.SignInPage(driver);
             ProductAddition prodAdd = new ProductAddition();
